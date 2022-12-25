@@ -1,0 +1,20 @@
+{
+  "name": "hexlet_SMWR",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "packageSMWR",
+  "main": "index.js",
+  "scripts": {
+    "test": "'test SMWR'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmwOverRainbow/hexlet-js.git"
+  },
+  "author": "SmwOverRainbow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmwOverRainbow/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/SmwOverRainbow/hexlet-js#readme"
+}
