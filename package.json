@@ -5,7 +5,7 @@
   "description": "packageSMWR",
   "main": "index.js",
   "scripts": {
-    "test": "'test SMWR'"
+    "test": "node tests/capitalize.test.js"
   },
   "repository": {
     "type": "git",
@@ -18,10 +18,13 @@
   },
   "homepage": "https://github.com/SmwOverRainbow/hexlet-js#readme",
   "dependencies": {
+    "jest": "^29.3.1",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "eslint": "^8.30.0",
+    "eslint": "^8.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
     "prettier": "^2.8.1"
   }
 }
